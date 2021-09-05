@@ -1,0 +1,60 @@
+{
+  "2codes": [
+    {"27": "Fosil fuels"},
+    {"39": "Plástico"},
+    {"87": "Tanques y vehículos"},
+    {"89": "Naves de guerra"},
+    {"93": "Armas"}
+  ],
+  "4codes": [
+    {"2701": "Hullas; briquetas, ovoides y combustibles sólidos similares"},
+    {"3915": "Resudio plástico"},
+    {"3920": "Plástico no catalogado"},
+    {"3921": "Plástico no catalogado"},
+    {"3926": "Piezas de plásticos"},
+    {"8710": "Tanques y vehiculos blindados de combate"},
+    {"9302": "Pistolas y revólveres"},
+    {"9303": "Armas de fuego y artefactos que utilizan deflagración de pólvora"},
+    {"9304": "Armas"},
+    {"9306": "Bombas, granadas, torpedos, cartuchos, municiones, proyectiles, ..."},
+    {"9307": "Sables, espadas, bayonetas, lanzas y demás armas blancas, sus partes y fundas."}
+  ],
+  "6codes": [
+    {"391510": "Polímeros de etileno"},
+    {"391520": "Polímeros de estireno"},
+    {"391530": "Polímeros de cloruro de vinilo"},
+    {"391530": "Demás polímeros"},
+    {"930111": "Piezas de artillería autopropulsadas"},
+    {"930110": "Piezas de artillería autopropulsadas"},
+    {"930119": "Demás piezas de artillería"},
+    {"930120": "Lanzacohetes; lanzallamas; ..."},
+    {"930190": "Demás armas de guerra"},
+    {"930190": "Demás armas de guerra"},
+    {"930203":  "Pistola no revolver"},
+    {"930204": "Pistola no revolver"},
+    {"930310": "Armas de avencarga"},
+    {"930320": "Armas largas de caza o deportivas >= 1 cañón de ánima lisa"},
+    {"930330": "Armas largas de caza o tiro deportivo"},
+    {"930510": "Accesorios de revólveres o pistolas"},
+    {"930520": "Armas largas de la partida 9303"},
+    {"930521": "Accesorios de escopetas y rifles de caza de la partida 9303"},
+    {"930529": "Accesorios de armas"},
+    {"930521": "Accesorios de armas de guerra"},
+    {"930621": "Cartuchos para escopetas y con cañón de ánima lisa y sus partes"},
+    {"930630": "Cartuchos y partes de armas"},
+    {"930690": "Armas de guerra"}
+  ],
+  "8codes": [
+    {"89061000": "Navíos de guerra"},
+    {"93032010": "Armas con cañón de ánima lisa"},
+    {"93032010": "Demás armas largas de caza o tiro deportivo"},
+    {"93062940": "Vainas"},
+    {"93063010": "Para revólveres y pistolas de la partida 9302 y para pistolas ametralladoras de la partida 9301"},
+    {"93063030": "Cartuchos y partes para armas de guerra"},
+    {"93063091": "Cartuchos y partes de percusión central"},
+    {"93063093": "Cartuchos y partes de percusión anular"},
+    {"93063010": "Revólveres y pistolas de la partida 9302 y para ametralladoras de la partida 9301"},
+    {"93069010": "Armas de guerra"},
+    {"93069090": "Demás armas"}
+  ]
+}
